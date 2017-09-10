@@ -1,6 +1,6 @@
 {
-    "name": "Delete pictures",
-    "id": "redirect",
+    "name": "WES",
+    "id": "wes",
     "packaging_format": 1,
     "requirements": {
         "yunohost": ">= 2.4"
