@@ -10,8 +10,8 @@
         "fr": "Créer une redirection ou un proxy vers un autre emplacement"
     },
     "maintainer": {
-        "name": "opi",
-        "email": "opi@zeropi.net"
+        "name": "philippe",
+        "email": "p.wes@hotmail.fr"
     },
     "multi_instance": "true",
     "services": [
