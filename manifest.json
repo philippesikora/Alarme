@@ -1,6 +1,6 @@
 {
-    "name": "WES",
-    "id": "wes",
+    "name": "Alarme",
+    "id": "alarme",
     "packaging_format": 1,
     "requirements": {
         "yunohost": ">= 2.4"
