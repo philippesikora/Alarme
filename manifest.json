@@ -1,6 +1,6 @@
 {
-    "name": "Alarme",
-    "id": "alarme",
+    "name": "Relais",
+    "id": "relais",
     "packaging_format": 1,
     "requirements": {
         "yunohost": ">= 2.4"
